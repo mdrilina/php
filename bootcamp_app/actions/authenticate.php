@@ -12,4 +12,6 @@ if (isset($_REQUEST['sid']) &&
 
     header("Location: index.php");
 }
-
+else {
+    header("Location: index.php?page=login");
+}

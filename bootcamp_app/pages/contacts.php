@@ -1,3 +1,3 @@
-<?php include "../bootcamp_app/pages/nav.php";?> 
-
+<?php include "../bootcamp_app/components/head.php"; ?>
+<title>contacts</title>
 <h1>Kontaktu sadaļa</h1>
